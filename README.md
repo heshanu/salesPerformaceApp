@@ -30,12 +30,12 @@ To get started with the Sales Performance System, follow these steps:
 3. Set up your sales team and assign roles and permissions.
 4. Start tracking your sales and analyzing your performance.
 
-Database connection
+## Database connection
 username-root
 password-
 
 
-For Login
+##  For Login
 AgentCode    EmployeeRole   Password
 ('in001', , 'insurance', 'insurance'),
 ('m0001', ', 'manager', 'manager'),
